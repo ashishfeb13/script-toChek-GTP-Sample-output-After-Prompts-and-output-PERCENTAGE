@@ -1,4 +1,5 @@
 # script-toChek-GTP-Sample-output-After-Prompts-and-output-PERCENTAGE
+
 The script reads an input file and counts the occurrences of each keyword in a case-insensitive manner. It then calculates the percentage of each keyword and saves the results to an output file. Additionally, it generates a pie chart showing the percentage distribution of the keywords.
 
 # Keyword Percentage Calculator
@@ -30,4 +31,11 @@ A pie chart showing the distribution of the keywords will also be generated.
 **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Author**
+_
+Name: Ashish Jaiswal
+Email: ashishfeb13@gmail.com, akj4@nyu.edu
+New York University Abu Dhabi_
+
 
